@@ -1,0 +1,49 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style:normal;
+    color: royalblue;
+    
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style:normal;
+    color: orange;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    font-style: italic;
+    color: orangered;
+}
+section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    border-width: thick;
+    border-color: aqua;
+
+}
+
+h2>section{
+    color: rosybrown;
+
+}
+p>section{
+    color: black;
+}
+
+
+aside{
+    margin-top: 50px
+
+}
